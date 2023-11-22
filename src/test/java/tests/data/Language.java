@@ -1,7 +1,7 @@
 package tests.data;
 
 public enum Language {
-    English("Install Steam"), Deutsch("Steam installieren");
+    ENGLISH("Install Steam"), DEUTSCH("Steam installieren");
 
     public final String description;
 
